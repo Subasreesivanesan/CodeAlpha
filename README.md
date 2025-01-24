@@ -6,7 +6,7 @@ This is an age calculator application developed for CodeAlpha. It calculates the
 ## Features
 - Simple and user-friendly interface
 - Accurate age calculation in years, months, and days
-- Responsive design for desktop and mobile
+- Responsive design for desktop 
 
 ## Technologies Used
 - HTML
